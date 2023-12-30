@@ -32,7 +32,7 @@
     />
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />
+    <img src="https://www.datocms-assets.com/98835/1684410508-image-7.png" alt="nextjs" width="40" height="40" />
   </a>
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
     <img
@@ -68,7 +68,7 @@
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg"
       alt="nodejs"
       width="40"
       height="40"
@@ -88,7 +88,7 @@
   </a>
   <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
+      src="https://static-00.iconduck.com/assets.00/cypress-icon-512x511-29zvfts6.png"
       alt="cypress"
       width="40"
       height="40"
